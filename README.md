@@ -1,3 +1,3 @@
 # use-set-window
 
-set variables to the window
+Set variables to the window with a react hook. Useful for testing purposes.
